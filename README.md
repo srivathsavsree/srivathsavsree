@@ -1,8 +1,6 @@
 <!-- Profile README for srivathsavsree -->
 
-<p align="center">
-  <img src="profile.png" alt="Srivathsa V Sree" width="200" style="border-radius: 50%;">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Srivathsa V Sree</h1>
 
