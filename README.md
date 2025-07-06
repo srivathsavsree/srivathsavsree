@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>
-    Full Stack Developer | DevOps & Cybersecurity Enthusiast | 4th Year B.Tech CSE (Networks) at KITS, Warangal
+    Full Stack Developer | DevOps & Cybersecurity Enthusiast | Final Year B.Tech CSE (Networks) @ KITS Warangal
   </em>
 </p>
 
@@ -13,31 +13,44 @@
 ### 👨‍💻 About Me
 
 - 🎓 Final-year Computer Science (Networks) student at **Kakatiya Institute of Technology and Science, Warangal**
-- 💻 Passionate about building full-stack web applications, secure systems & data visualization dashboards
-- 🌐 Exploring areas like **Steganography**, **Secure File Sharing**, **Power BI**, and **DevOps**
-- 🧑‍🔧 Completed internships in Backend, DevOps, and Cybersecurity
-- 🛠️ Always open to collaborating on real-world impactful projects
-- 📘 Currently working on enhancing my **portfolio** and completing the **CodeSage** platform
+- 🧪 Research Intern at **NIT Trichy** – Serverless cold-start latency benchmarking (AWS & Azure)
+- 💻 Passionate about building secure full-stack web apps and DevOps pipelines
+- 🌐 Exploring **Cybersecurity**, **Cloud Security**, **Steganography**, and **AI Automation**
+- 🚀 Creator of **Secure File Share**, **Steganography Web App**, and **CyberSnoop Toolkit**
+- 📂 Currently building **CodeSage** – A collaborative coding platform (WIP)
+- 🧠 Always eager to learn, collaborate, and contribute to impactful open-source projects
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Java, Python, JavaScript
-- **Frontend:** HTML, CSS, React, Next.js
-- **Backend:** FastAPI, Node.js
-- **DevOps & Tools:** Docker, Git, GitHub, Linux
-- **Cloud/Data:** AWS (S3), Power BI, Excel
-- **Other Tools:** Figma, Postman, VS Code
+**Languages**  
+Java • Python • JavaScript
+
+**Frontend**  
+HTML • CSS • React.js • Next.js
+
+**Backend**  
+FastAPI • Node.js • Express.js
+
+**DevOps & Tools**  
+Docker • Git & GitHub • GitHub Actions • Linux • Postman
+
+**Cloud & Data**  
+MongoDB • MySQL • PostgreSQL • AWS S3 • Power BI • Excel
+
+**Other Tools**  
+Figma • VS Code
 
 ---
 
 ### 🚀 Projects
 
-- 🔐 [Secure File Sharing](https://github.com/srivathsavsree/securefilesharing) – Share encrypted files with self-destruct logic & QR-based access
-- 🖼️ [Steganography Web App](https://github.com/srivathsavsree/steganography) – Hide text/files inside images, audio, video
-- 🔍 [CyberSnoop](https://github.com/srivathsavsree/cybersnoop) – Basic toolset for web-based cybersecurity practices
-- 💡 CodeSage (Coming Soon) – A community platform for code challenges and learning (WIP)
+- 🔐 [Secure File Share](https://github.com/srivathsavsree/Secure_File_Share) – Encrypted file sharing with QR-based delivery and auto-expiry  
+- 🖼️ [Steganography Web App](https://github.com/srivathsavsree/steganography) – Hide messages inside image, audio, or video files  
+- 🕵️ [CyberSnoop Toolkit](https://github.com/srivathsavsree/CyberSnoop) – Lightweight toolkit for port scanning and IP analysis  
+- 💡 [CodeSage](https://github.com/srivathsavsree/CodeSage) *(Work in Progress)* – Platform for coding challenges and curated learning  
+- 🌐 [Portfolio Website](https://potfolio-srivathsavthaneeru-gmailcoms-projects.vercel.app/) – My personal dev portfolio with all my work
 
 ---
 
@@ -58,8 +71,9 @@
 ### 📫 Connect With Me
 
 - 📧 Email: **srivathsavthaneeru@gmail.com**
-- 💼 [LinkedIn](www.linkedin.com/in/thaneerusrivathsav)
-- 🧑‍💻 [GitHub](https://github.com/srivathsavsree)
+- 🔗 Portfolio: [View Portfolio](https://potfolio-srivathsavthaneeru-gmailcoms-projects.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/sriathsav_sree](https://www.linkedin.com/in/sriathsav_sree)
+- 🧑‍💻 GitHub: [github.com/srivathsavsree](https://github.com/srivathsavsree)
 
 ---
 
