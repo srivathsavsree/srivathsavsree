@@ -50,7 +50,7 @@ Figma • VS Code
 - 🖼️ [Steganography Web App](https://github.com/srivathsavsree/steganography) – Hide messages inside image, audio, or video files  
 - 🕵️ [CyberSnoop Toolkit](https://github.com/srivathsavsree/CyberSnoop) – Lightweight toolkit for port scanning and IP analysis  
 - 💡 [CodeSage](https://github.com/srivathsavsree/CodeSage) *(Work in Progress)* – Platform for coding challenges and curated learning  
-- 🌐 [Portfolio Website](https://potfolio-srivathsavthaneeru-gmailcoms-projects.vercel.app/) – My personal dev portfolio with all my work
+- 🌐 [Portfolio Website](https://portfolio-srivathsavthaneeru-gmailcoms-projects.vercel.app/) – My personal dev portfolio with all my work
 
 ---
 
@@ -71,7 +71,7 @@ Figma • VS Code
 ### 📫 Connect With Me
 
 - 📧 Email: **srivathsavthaneeru@gmail.com**
-- 🔗 Portfolio: [View Portfolio](https://potfolio-srivathsavthaneeru-gmailcoms-projects.vercel.app/)
+- 🔗 Portfolio: [View Portfolio](https://portfolio-srivathsavthaneeru-gmailcoms-projects.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/sriathsav_sree](https://www.linkedin.com/in/sriathsav_sree)
 - 🧑‍💻 GitHub: [github.com/srivathsavsree](https://github.com/srivathsavsree)
 
